@@ -1,5 +1,1 @@
-Hi, my name is Samuel Tomack. I am a third-year undergraduate mathematics student at the University of Pittsburgh.
-
-I am particularly interested in number theory and graph theory, any code I upload here will probably be mathematical in nature.
-
-I hope you enjoy looking at some of my projects!
+Hi, my name is Samuel Tomack. I am a fourth-year student at the University of Pittsburgh studying math and computer science. I am particularly interested in number theory, combinatorics, and graph theory. I hope you find some of my projects interesting!
